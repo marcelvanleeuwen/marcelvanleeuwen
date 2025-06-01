@@ -1,1 +1,0 @@
-Documentation of my lab journeys. You can find me on [LinkedIn](https://www.linkedin.com/in/marcel-van-leeuwen-933328343/)
