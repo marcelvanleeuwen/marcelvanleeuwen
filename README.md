@@ -1,4 +1,4 @@
 # Marcel van Leeuwen
 
-#### This is my GitHub page where I list my projects.
+#### Welcome to my GitHub page — here you'll find my projects.
 
